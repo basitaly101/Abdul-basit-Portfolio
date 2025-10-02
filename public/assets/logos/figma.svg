@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="160" viewBox="0 0 120 160" role="img" aria-label="Figma logo">
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="50" height="50" rx="25" fill="#F24E1E"/>
+    <rect x="50" y="0" width="50" height="50" rx="25" fill="#A259FF"/>
+    <rect x="0" y="50" width="50" height="50" rx="25" fill="#1ABCFE"/>
+    <rect x="50" y="50" width="50" height="50" rx="25" fill="#0ACF83"/>
+    <rect x="0" y="100" width="50" height="50" rx="25" fill="#FF7262"/>
+  </g>
+</svg>
